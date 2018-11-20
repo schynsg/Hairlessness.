@@ -19,9 +19,9 @@ Vente de chat - chatterie de sphynx (chats sans poils)
   * Prix et récompenses 
 ### Album Photo 
 * Enciens reproducteurs
-* Enciens petits
 * Que sont-ils devenus ?
 * La chatterie 
+* Salle de jeux
 ### Description de la race 
 * Concours
 * Maladies à risuqe (suivi médical)

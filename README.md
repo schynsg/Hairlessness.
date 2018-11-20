@@ -13,10 +13,17 @@ Vente de chat - chatterie de sphynx (chats sans poils)
     * Possibilité de réserver des chats avant leur naissance
   * Chats reproducteurs
     * Femelles
-      * Petit descriptif
+      * Petit descriptif par animal
     * Étalons (chamion du monde)
-      * Petit descriptif
+      * Petit descriptif par animal 
   * Album Photo 
     * Enciens reproducteurs
     * enciens petits
-    * que sont-ils devenus
+    * que sont-ils devenus ?
+  * Description de la race 
+    * Concours
+    * Maladies à risuqe (suivi médical)
+    * Historique de la race 
+    * Historique de la chatterie
+  * Livre d'or
+    * Commentaires des propriétaires 

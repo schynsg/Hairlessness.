@@ -17,4 +17,6 @@ Vente de chat - chatterie de sphynx (chats sans poils)
     * Étalons (chamion du monde)
       * Petit descriptif
   * Album Photo 
-    * 
+    * Enciens reproducteurs
+    * enciens petits
+    * que sont-ils devenus

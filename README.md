@@ -6,9 +6,7 @@ Vente de chat - chatterie de sphynx (chats sans poils)
 ### index
 * Grande photo
 * Très épuré
-* Contact
-* Nav avec 5 onglets
-  
+* Formulaire de contact
 ### Chats a vendre
 * fiche du chat (nom, sexe, robe (couleur de la peau), yeux, date de naissance, caractère (descriptif),...)
 * Possibilité de réserver des chats avant leur naissance

@@ -29,3 +29,7 @@ Vente de chat - chatterie de sphynx (chats sans poils)
 * Historique de la chatterie
 ### Livre d'or
 * Commentaires des propriétaires 
+
+## Inspirations client
+
+* http://www.resonancecommunication.com/non-classe/10-tendances-webdesign-2018/

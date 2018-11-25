@@ -1,5 +1,5 @@
 # hairlessness
-Vente de chat - chatterie de sphynx (chats sans poils)
+Vente de chats - chatterie de sphynx (chats sans poils)
 
 ## Structure
 
